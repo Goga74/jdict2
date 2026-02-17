@@ -1,0 +1,15 @@
+# Export data (large, not tracked)
+export/
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.claude/
+
