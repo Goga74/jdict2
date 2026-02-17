@@ -1,6 +1,7 @@
-# Export data (large, not tracked)
+# Export data and generated output (large, not tracked)
 export/
 *.json
+*.pdf
 
 # Python
 __pycache__/
